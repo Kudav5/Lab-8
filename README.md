@@ -1,6 +1,6 @@
 ## Penjelasan Praktikum
 
-Menggunakan class dengan rumus
+Menggunakan class
 ```
 class NamaClass:
     pass
