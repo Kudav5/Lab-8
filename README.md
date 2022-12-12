@@ -1,1 +1,3 @@
 ## Penjelasan Praktikum
+
+Menggunakan class
