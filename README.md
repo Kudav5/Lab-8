@@ -11,3 +11,5 @@ class NamaClass:
 ![class](fotoclass/fotoclass.png)
 
 ## Flowchart
+
+![class](fotoclass/fotoflow.png)
